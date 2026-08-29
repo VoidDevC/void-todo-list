@@ -80,4 +80,4 @@ To run it, you need:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the GPLv3 License.
