@@ -10,8 +10,8 @@ the app is not complete for now.
 to install Void-to-do
 
 ```bash
-   https://github.com/VoidDevC/void-todo-list
-   cd void-todo-list/
+https://github.com/VoidDevC/void-todo-list
+cd void-todo-list/
 ```
 for run the tool 
 ```bash
