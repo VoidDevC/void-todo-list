@@ -1,5 +1,5 @@
 # void-todo-list
-# Void Todo List
+
 
 Void Todo List is a simple command-line To-Do List application written in C.
 
